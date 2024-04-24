@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/one"
+        android:title="Hyundai" />
+    <item
+        android:id="@+id/two"
+        android:title="Kia"/>
+    <item
+        android:id="@+id/three"
+        android:title="Mahindra"/>
+    <item
+        android:id="@+id/four"
+        android:title="Maruti"/>
+</menu>
